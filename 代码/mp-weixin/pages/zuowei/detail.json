@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#008761",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "座位详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
